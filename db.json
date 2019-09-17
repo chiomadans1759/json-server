@@ -1,0 +1,36 @@
+{
+  "restaurants":[
+    {
+      "id": "1",
+      "company_name": "Idaho Kitchen",
+      "image": "http://lorempixel.com/640/480/transport",
+      "description": "Investor",
+      "price": "177.21",
+      "currency": "NN",
+      "rating": "80%",
+      "type": "Restaurant",
+      "address": "0752 Valentine Glen",
+      "city": "Lagos",
+      "secondary_address": "Suite 871",
+      "opens": "03:45am",
+      "closes": "11:45pm",
+      "website": "https://bloverse.com"
+    },
+    {
+      "id": "2",
+      "company_name": "Easy Bites",
+      "image": "http://lorempixel.com/640/480/transport",
+      "description": "Investor",
+      "price": "1, 200",
+      "currency": "NN",
+      "rating": "80%",
+      "type": "Restaurant",
+      "address": "0752 Valentine Glen",
+      "city": "Lagos",
+      "secondary_address": "Suite 871",
+      "opens": "03:45am",
+      "closes": "11:45pm",
+      "website": "https://bloverse.com"
+    }
+  ]
+}
